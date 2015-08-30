@@ -11,7 +11,7 @@ MITライセンスです。
 
 ## ファイル説明
 
-LICENSE - ライセンス
-README.md	- これ
-kani.txt	- MS-IME用でありメインなファイルでもある。
-kanidic-skk.txt - SKK用だがUnicodeな辞書が読める実装じゃないと使えない。kani.txtに追随。
++ LICENSE - ライセンス
++ README.md	- これ
++ kani.txt	- MS-IME用でありメインなファイルでもある。
++ kanidic-skk.txt - SKK用だがUnicodeな辞書が読める実装じゃないと使えない。kani.txtに追随。
