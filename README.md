@@ -15,3 +15,5 @@ MITライセンスです。
 + README.md	- これ
 + kani.txt	- MS-IME用でありメインなファイルでもある。
 + kanidic-skk.txt - SKK用だがUnicodeな辞書が読める実装じゃないと使えない。kani.txtに追随。
+
+Copyright © 2015 https://github.com/otya128/kanidic/graphs/contributors
