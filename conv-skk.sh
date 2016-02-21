@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "conv-skk.sh"
+echo "conv-skk.sh 2.0"
 
 if [ $# != 2 ]; then
     echo "usage: $0 msime.dic skk.dic" 1>&2
