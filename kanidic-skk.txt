@@ -1,3 +1,19 @@
+;; -*- mode: fundamental; coding: utf-8 -*-
+;; kanidic for SKK system
+;; Copyright (C) 2015-2016
+;;
+;; otya128
+;; Citringo
+;; yuusyaasisutanto
+;; atnanasi
+;; cmk-1
+;;
+;; Maintainer: otyakai
+;; Version: $Id: kanidic-skk.txt,v 1.2 2016/03/24 10:10:02$
+;; Keywords: japanese
+;; Last Modified: $Date: 2016/03/24 10:10:00 $
+;;
+;; okuri-nasi entries.
 かに /v('ω')v;顔文字 v('ω')v/
 かに /m9('ω')v;顔文字 むきゅう/
 かに /∠( 'ω')／;顔文字 hey,gays/

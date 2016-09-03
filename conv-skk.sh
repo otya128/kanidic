@@ -1,11 +1,14 @@
 #!/bin/sh
-echo "conv-skk.sh 2.0"
+echo "conv-skk.sh 2.1"
 
-if [ $# != 2 ]; then
-    echo "usage: $0 msime.dic skk.dic" 1>&2
+#check
+if [ $# != 3 ]; then
+    echo "usage: $0 skk-header.txt msime.dic skk.dic" 1>&2
     exit 0
 fi
 
-echo "conv $1 to $2"
+#header
+cat $1 > $3
 
-cat $1 | sed "s/^かに\t\(.\+\)\t顔文字\(\t\(.\+\)\)\?$/かに \/\1;顔文字 \3\//" > $2
+#convert
+cat $2 | sed "s/^\(.\+\)\t\(.\+\)\t\(.\+\)\t\(.\+\)$/\1 \/\2;\3 \4\//" >> $3
