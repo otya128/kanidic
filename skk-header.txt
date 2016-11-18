@@ -1,4 +1,4 @@
-;; -*- mode: fundamental; coding: utf-8 -*-
+;; -*- mode: fundamental; coding: EUC-JP -*-
 ;; kanidic for SKK system
 ;; Copyright (C) 2015-2016
 ;;
