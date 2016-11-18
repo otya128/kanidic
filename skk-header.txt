@@ -13,4 +13,3 @@
 ;; Keywords: japanese
 ;; Last Modified: $Date: 2016/03/24 10:10:00 $
 ;;
-;; okuri-nasi entries.
