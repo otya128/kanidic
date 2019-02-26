@@ -1,0 +1,15 @@
+;; -*- mode: fundamental; coding: UTF-8 -*-
+;; kanidic for SKK system
+;; Copyright (C) 2015-2019
+;;
+;; otya128
+;; Citringo
+;; yuusyaasisutanto
+;; atnanasi
+;; cmk-1
+;;
+;; Maintainer: otyakai
+;; Version: $Id: kanidic-skk.txt,v 1.2 2019/02/26 03:51:22$
+;; Keywords: japanese
+;; Last Modified: $Date: 2019/02/26 03:51:22 $
+;;
